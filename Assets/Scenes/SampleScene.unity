@@ -243,6 +243,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dae9e0c8205eaa64a92c1e0ac0ff7fc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pipe: {fileID: 5755540188111134972, guid: e081c020551464e41b4062f1cc6b1230, type: 3}
+  spawnRate: 4
 --- !u!4 &705879638
 Transform:
   m_ObjectHideFlags: 0
