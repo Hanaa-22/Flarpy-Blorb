@@ -572,7 +572,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerScore: 0
   scoreText: {fileID: 1583334451}
-  gameOverScreen: {fileID: 0}
+  gameOverScreen: {fileID: 1261757577}
 --- !u!4 &1063106760
 Transform:
   m_ObjectHideFlags: 0
@@ -603,7 +603,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1261757578
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1049,6 +1049,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRigidbody: {fileID: 2067993643}
   flapStrength: 20
+  logic: {fileID: 0}
+  birdIsAlive: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
